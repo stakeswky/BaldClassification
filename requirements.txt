@@ -1,0 +1,9 @@
+flyai
+torchvision==0.4
+torch==1.4.0
+Pillow==6.2.0
+scipy
+albumentations
+opencv-contrib-python
+efficientnet_pytorch
+numpy
